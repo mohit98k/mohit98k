@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm mohit</h1>
-<h3 align="center">i like to craft things that lives on the internet !</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6889E2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01BAEF&size=50&center=true&vCenter=true&width=1000&lines=Hi👋,I'm+mohit;❤️+Coding;❤️Gaming+;❤️+Creating&font=Cascadia+Code)](https://git.io/typing-svg)
+
+
+<h3 align="center">i like to craft things that live on the internet !</h3>
 
 - 🌱 I’m currently learning **machine learning**
 
