@@ -5,7 +5,7 @@
 
 <h3 align="center">i like to craft things that live on the internet !</h3>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently working on **machine learning**
 
 - 💬 Ask me about **dsa and web dev**
 
