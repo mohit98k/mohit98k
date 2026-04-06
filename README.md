@@ -5,6 +5,8 @@
 
 <h3 align="center">i like to craft things that live on the internet !</h3>
 
+- 🛠️ Specialized Backend Dev
+
 - 🌱 I’m currently working on **machine learning**
 
 - 💬 Ask me about **dsa and web dev**
@@ -23,7 +25,7 @@ Tools and technologies that I have worked with and am interested in
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Git" />
       <br>Java
     </td>
     <td align="center" width="96">
@@ -49,7 +51,7 @@ Tools and technologies that I have worked with and am interested in
       <br>Vite
     </td>
        <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="HTML" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="HTML" />
       <br>GitHub
     </td>
     <td align="center" width="96">
@@ -67,7 +69,7 @@ Tools and technologies that I have worked with and am interested in
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="Git" />
       <br>React
     </td>
     <td align="center" width="96">
