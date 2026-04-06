@@ -58,6 +58,10 @@ Tools and technologies that I have worked with and am interested in
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="Git" />
+      <br>AWS
+    </td>
   </tr>
   <tr>
     <td align="center"  width="96">
