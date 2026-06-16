@@ -96,6 +96,10 @@ Tools and technologies that I have worked with and am interested in
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
+      <img src="https://i.pinimg.com/736x/92/97/37/929737299de5b852501091d1089823e1.jpg" width="48" height="48" alt="jquery" />
+      <br>ClashOfClans
+    </td>
   </tr>
    <tr>
      <td align="center"  width="96">
